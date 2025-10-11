@@ -1,8 +1,8 @@
 <h1>Raghad Alhulwah</h1>
-<h3>About me:</h3>
+<h3>About me</h3>
 <p>Motivated Information Technology student specializing in Networking and Internet of Things (IoT) Engineering. Passionate about building efficient and secure network infrastructures and exploring innovative IoT solutions.</p>
 <hr>
-<h3>Workshops & Training:</h3>
+<h3>Workshops & Training</h3>
 <ul>
   <li><strong>Introduction to IoT and Digital Transformation</strong>- Cisco Networking Academy (In Progress)</li>
   <li><strong>Network Science Fundamentals (Network+)</strong> - Tuwaiq Academy (Planned)</li>
@@ -34,7 +34,7 @@ to identify key factors affecting students’ adaptability to remote education.<
   </ul>
 </p>
 <hr>
-<h3>Contact me:</h3>
+<h3>Contact me</h3>
 <p><strong>Email: </strong>Raghada896@gmail.com<br>
-  <!--<strong>LinkedIn: </strong>Raghadalhulwah-->
+   <strong>LinkedIn: </strong><a href="https://www.linkedin.com/in/raghad-alhulwah-49296b389?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">raghad alhulwah<\a>
 </p>

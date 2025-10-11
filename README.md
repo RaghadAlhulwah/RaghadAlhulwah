@@ -1,6 +1,6 @@
 <h1>Raghad Alhulwah</h1>
 <h3>About me:</h3>
-<p>Motivated Information Technology student specializing in Networking and Internet of Things (IoT) Engineering. Passionate about building efficient and secure network infrastructures and exploring innovative IoT solutions.<br>Eager to grow professionally, apply my knowledge in real-world projects, and contribute to advancing technology in the field of connectivity!</p>
+<p>Motivated Information Technology student specializing in Networking and Internet of Things (IoT) Engineering. Passionate about building efficient and secure network infrastructures and exploring innovative IoT solutions.</p>
 <hr>
 <h3>Workshops & Training:</h3>
 <ul>

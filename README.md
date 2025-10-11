@@ -36,5 +36,5 @@ to identify key factors affecting students’ adaptability to remote education.<
 <hr>
 <h3>Contact me</h3>
 <p><strong>Email: </strong>Raghada896@gmail.com<br>
-   <strong>LinkedIn: </strong><a href="https://www.linkedin.com/in/raghad-alhulwah-49296b389?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">raghad alhulwah<\a>
+   <strong>LinkedIn: </strong><a href="https://www.linkedin.com/in/raghad-alhulwah-49296b389?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">raghad alhulwah</a>
 </p>

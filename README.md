@@ -20,9 +20,10 @@
   <p>Analyzed survey data using classification (Decision Tree) and clustering (K-Means) techniques
 to identify key factors affecting students’ adaptability to remote education.</p>
   <li><strong>Eventful</strong> - Project for User Experience Design course</li>
-  <p>This project implements a Java-based photo management system that organizes and retrieves photos based on user-defined tags. It applies Linked Lists and Binary Search Trees to manage and search photo collections efficiently. The goal is to demonstrate practical use of fundamental data structures and algorithms while providing an intuitive and organized way for users to handle large sets of photos.</p>
+  <p>Designed a mobile app prototype for planning and managing events using Figma.
+    Focused on solving real user needs through research-driven design and interactive prototyping.</p>
 <li><strong>Photo management system</strong> - Project for Data Structures course</li>
-<p>Developed a multiplayer Java Swing game with real-time player interaction, live score tracking, and network communication using sockets. Utilized Java Swing for GUI design and core Java libraries for game logic, event handling, and data management.</p>
+<p>This project implements a Java-based photo management system that organizes and retrieves photos based on user-defined tags. It applies Linked Lists and Binary Search Trees to manage and search photo collections efficiently. The goal is to demonstrate practical use of fundamental data structures and algorithms while providing an intuitive and organized way for users to handle large sets of photos.</p>
 </ul>
 </p>
 <hr>

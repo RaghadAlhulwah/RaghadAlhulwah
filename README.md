@@ -6,7 +6,7 @@
 <ul>
   <li><strong>Smart robotics camp</strong>- AI Center for Advanced Studies (Thakaa) at King Saud University (13sep - 17sep)</li>
   <li><strong>Introduction to IoT and Digital Transformation</strong>- Cisco Networking Academy (In Progress)</li>
-  <li><strong>Network Science Fundamentals (Network+)</strong> - Tuwaiq Academy (Planned)</li>
+  <!--<li><strong>Network Science Fundamentals (Network+)</strong> - Tuwaiq Academy (Planned)</li>-->
 </ul>
 <hr>
 <h3>Projects</h3>

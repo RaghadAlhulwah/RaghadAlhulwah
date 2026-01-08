@@ -12,7 +12,9 @@
 <h3>Projects</h3>
 <p>
 <ul>
-  <li><strong>Shefrah Game</strong> - Project for Network Principles course</li>
+  <li><strong>Lammatna لَـمتنـا</strong> - Project for Software Engineering Course</li>
+  <p>Developed a web-based platform for organizing small social gatherings by centralizing event details, attendee lists, and task assignments. The project applied all phases of the Software Engineering lifecycle, including requirements analysis, system design, implementation, and testing. The platform integrates Google Calendar for reminders and Google Maps to display event locations, with a strong focus on usability, clear UI design, and secure user authentication using encrypted passwords.</p>
+  <li><strong>Shefrah شِفـرَة</strong> - Project for Network Principles course</li>
   <p>Developed a multiplayer Java Swing game with real-time player interaction, live score tracking, and network communication using sockets. Utilized Java Swing for GUI design and core Java libraries for game logic, event handling, and data management.</p>
   <li><strong>Intrusion Detection Systems</strong> - Project for Information Security course</li>
   <p>Applied an IDS tool to identify network traffic and detect potential unauthorized access or malicious activities.</p>
